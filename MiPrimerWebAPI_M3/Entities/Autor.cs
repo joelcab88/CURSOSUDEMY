@@ -18,5 +18,10 @@ namespace MiPrimerWebAPI_M3.Entities
         /// </summary>
         [Required(ErrorMessage = "El nombre del autor es requerido.")]
         public string cNombre { get; set; }
+
+        /// <summary>
+        /// Listado de libros del autor
+        /// </summary>
+        public List<Libro> lstLibros { get; set; }
     }
 }

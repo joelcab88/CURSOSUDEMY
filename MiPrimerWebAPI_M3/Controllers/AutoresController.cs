@@ -18,10 +18,15 @@ namespace MiPrimerWebAPI_M3.Controllers
         {
             this.context = context;
         }
+
+        /// <summary>
+        /// Obtiene todos los autores de la base de datos
+        /// </summary>
+        /// <returns>Listado de autores</returns>
         [HttpGet]
         public ActionResult<IEnumerable<Autor>> Get()
         {
-            return context.Autores.ToList();
+            return context.Autores.Include(x => x.lstLibros).ToList();
         }
 
         /// <summary>

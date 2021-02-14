@@ -56,8 +56,11 @@ C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\bin\Debug\ne
 C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\bin\Debug\netcoreapp3.1\MiPrimerWebAPI_M3.pdb
 C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\obj\Debug\netcoreapp3.1\MiPrimerWebAPI_M3.csproj.CoreCompileInputs.cache
-C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\obj\Debug\netcoreapp3.1\MiPrimerWebAPI_M3.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\obj\Debug\netcoreapp3.1\MiPrimerWebAPI_M3.dll
 C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\obj\Debug\netcoreapp3.1\MiPrimerWebAPI_M3.pdb
 C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\obj\Debug\netcoreapp3.1\MiPrimerWebAPI_M3.genruntimeconfig.cache
+C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\obj\Debug\netcoreapp3.1\MiPrimerWebAPI_M3.csproj.CoreCompileInputs.cache
+C:\Users\joelc\source\repos\joelcab88\CURSOSUDEMY\MiPrimerWebAPI_M3\obj\Debug\netcoreapp3.1\MiPrimerWebAPI_M3.MvcApplicationPartsAssemblyInfo.cache
